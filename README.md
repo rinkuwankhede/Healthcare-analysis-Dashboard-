@@ -28,7 +28,11 @@ Walkthrough of Key Visuals -
  Insights - Healthcare teams can track patient trends and manage hospital resources like beds, staff, and equipment more efficiently.
 It also helps balance doctor workload and improve the quality of patient care.
 
-6. Screenshots / Demos -
+6. Screenshots / Demos
+  
+
+![Healthcare Dashboard](Screenshots/Healthcare analysis dashboard ss.png)
+
    
 
 
