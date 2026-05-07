@@ -30,8 +30,9 @@ It also helps balance doctor workload and improve the quality of patient care.
 
 6. Screenshots / Demos
   
+![Healthcare Dashboard](Screenshots/Healthcare%20analysis%20dashboard%20ss.png)
 
-![Healthcare Dashboard](Screenshots/Healthcare analysis dashboard ss.png)
+
 
    
 
