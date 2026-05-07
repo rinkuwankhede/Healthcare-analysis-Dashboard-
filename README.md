@@ -30,7 +30,7 @@ It also helps balance doctor workload and improve the quality of patient care.
 
 ## Screenshots / Demos
 
-![Healthcare Dashboard](Screenshots/dashboard.png)
+![Healthcare Dashboard](https://github.com/rinkuwankhede/Healthcare-analysis-Dashboard-/blob/main/Healthcare%20analysis%20dashboard%20ss.png)
 
 
 
